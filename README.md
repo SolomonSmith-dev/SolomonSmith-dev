@@ -1,39 +1,74 @@
-👋 About Me
+# Solomon Smith — Professional Portfolio
 
-I'm Solomon Smith, a Computer Science major at CSU San Bernardino. As a future AI engineer, I'm focused on building machine learning and deep learning systems, mastering frameworks like TensorFlow and PyTorch, and staying at the forefront of state-of-the-art NLP, image, and video understanding models.
-🌟 What You’ll Find Here
+This repository hosts the source code and structure for my professional portfolio website, built using GitHub Pages and Jekyll. The site highlights my ongoing work in computer science, with a focus on AI engineering, full-stack development, and systems programming.
 
-This site serves as my professional portfolio, a collection of my projects, and a platform for sharing my thoughts on technology, diversity in tech, and personal growth.
-📚 Projects
+Visit the live portfolio: [solomon-smith-dev.tech](https://solomon-smith-dev.tech)
 
-Check out some of the projects I’m working on:
+---
 
-Python & GitHub Learning Projects: I’m in the midst of a 12-week plan to refine my skills in Python and GitHub, updating my GitHub with new projects each week.
-C++ Learning Plan: Complementing my Python journey, I’m also exploring C++ with another structured 12-week learning plan.
- AI & Machine Learning: Dive into some of my experiments with TensorFlow, PyTorch, and other deep learning frameworks as I build a foundation in AI engineering.
+## Contents
 
-More details and links to individual projects are available in this site's “Projects” section.
-💻 Technology Stack
+- [About the Site](#about-the-site)
+- [Live Demo](#live-demo)
+- [Core Features](#core-features)
+- [Technology Stack](#technology-stack)
+- [Contact](#contact)
 
-This site is created with:
+---
 
-GitHub Pages for hosting
-Jekyll as a static site generator
-Markdown (.md files) for content organization
+## About the Site
 
-I’m also using Visual Studio Code as my primary IDE, and I use GitHub Desktop for version control on my MacBook.
-🎯 Goals
+This site serves as a living technical portfolio. It documents current and past projects, long-term learning tracks, and professional goals related to:
 
-In the next few years, I aim to:
+- Machine Learning and Deep Learning (TensorFlow, PyTorch)
+- Software Engineering and Systems Programming (Python, C++)
+- Full-Stack Web Development (FastAPI, React, Docker)
+- Equity and representation in tech
 
-Gain publication experience in top-tier conferences and journals
-Build cutting-edge machine learning and deep learning systems
-Contribute to increasing diversity within the tech industry
-Grow as a self-starter in a dynamic, fast-paced environment
+Each section is designed to grow alongside my skill set and experience as I prepare for a career in artificial intelligence and software engineering.
 
-🚀 Get in Touch
+---
 
-Feel free to connect with me on LinkedIn, check out my GitHub for recent code updates, or follow along on my website for more content!
+## Live Demo
+
+You can view the deployed version of the portfolio at:
+
+**[solomon-smith-dev.tech](https://solomon-smith-dev.tech)**
+
+---
+
+## Core Features
+
+- **Responsive Design**: Optimized layout across desktop and mobile devices
+- **Project-Based Navigation**: Dedicated pages for project details and repository links
+- **SEO and Metadata Optimization**: Custom metadata, Open Graph, and Twitter Card integration
+- **Custom 404 Page**: Clean fallback experience
+- **Version-Controlled Content**: Managed with GitHub for ongoing updates and transparency
+
+---
+
+## Technology Stack
+
+- **GitHub Pages**: Static site hosting
+- **Jekyll**: Static site generator
+- **Markdown**: Content formatting
+- **HTML/CSS**: Custom styling and structure
+- **Open Graph & Twitter Cards**: Social metadata
+- **Google Analytics**: Performance monitoring
+- **GitHub CLI / Desktop**: Version control and project management
+
+---
+
+## Contact
+
+- **GitHub**: [github.com/SolomonSmith-dev](https://github.com/SolomonSmith-dev)
+- **Portfolio**: [solomon-smith-dev.tech](https://solomon-smith-dev.tech)
+- **LinkedIn**: [linkedin.com/in/solomon-smith](https://www.linkedin.com/in/solomon-smith)
+
+---
+
+This repository reflects my commitment to growth, continuous learning, and building real-world systems at the intersection of computer science and artificial intelligence.
+
 
 <!---
 SolomonSmith-dev/SolomonSmith-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
