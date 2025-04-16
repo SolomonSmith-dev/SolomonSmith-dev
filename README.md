@@ -1,6 +1,6 @@
 👋 About Me
 
-I'm Solomon Smith, a Computer Science major at CSU San Bernardino, where I’m passionate about bringing racial diversity into the tech sector. As a future AI engineer, I'm focused on building machine learning and deep learning systems, mastering frameworks like TensorFlow and PyTorch, and staying at the forefront of state-of-the-art NLP, image, and video understanding models.
+I'm Solomon Smith, a Computer Science major at CSU San Bernardino. As a future AI engineer, I'm focused on building machine learning and deep learning systems, mastering frameworks like TensorFlow and PyTorch, and staying at the forefront of state-of-the-art NLP, image, and video understanding models.
 🌟 What You’ll Find Here
 
 This site serves as my professional portfolio, a collection of my projects, and a platform for sharing my thoughts on technology, diversity in tech, and personal growth.
