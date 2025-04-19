@@ -63,7 +63,7 @@ You can view the deployed version of the portfolio at:
 
 - **GitHub**: [github.com/SolomonSmith-dev](https://github.com/SolomonSmith-dev)
 - **Portfolio**: [solomon-smith-dev.tech](https://solomon-smith-dev.tech)
-- **LinkedIn**: [linkedin.com/in/solomon-smith](https://www.linkedin.com/in/solomon-smith)
+- **LinkedIn**: [linkedin.com/in/solomonsmithdev](https://www.linkedin.com/in/solomonsmithdev/)
 
 ---
 
