@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320">
+  <rect width="1280" height="320" fill="#0d0d0d"/>
+  <text
+    x="64"
+    y="148"
+    font-family="Inter, Segoe UI, Helvetica Neue, Arial, sans-serif"
+    font-size="56"
+    font-weight="700"
+    letter-spacing="-1"
+    fill="#ffffff"
+  >Solomon Smith</text>
+  <rect x="64" y="168" width="320" height="3" fill="#e04040"/>
+  <text
+    x="64"
+    y="216"
+    font-family="Inter, Segoe UI, Helvetica Neue, Arial, sans-serif"
+    font-size="22"
+    font-weight="400"
+    fill="#aaaaaa"
+    letter-spacing="0.5"
+  >ML Engineer · CS Senior at CSUSB · West Coast</text>
+</svg>
