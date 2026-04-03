@@ -53,11 +53,6 @@ Systems      Pthreads · IPC · Signals · Mutex · Process Management · Bash
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SolomonSmith-dev&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SolomonSmith-dev&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
-
----
-
 <div align="center">
   <sub>Dean's List · Spring & Fall 2025 · CSUSB Computer Science</sub>
 </div>
