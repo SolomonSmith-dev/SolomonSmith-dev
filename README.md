@@ -53,16 +53,8 @@ Systems      Pthreads · IPC · Signals · Mutex · Process Management · Bash
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SolomonSmith-dev&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SolomonSmith-dev&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" height="165"/>
-</div>
-
----
-
-<div align="center">
-  <sub>Dean's List · Spring & Fall 2025 · CSUSB Computer Science</sub>
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SolomonSmith-dev&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SolomonSmith-dev&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
 
 ---
 
