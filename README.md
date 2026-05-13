@@ -42,6 +42,13 @@ Multi-threaded C with Pthreads and mutex locks across 300M shared-memory operati
 
 ---
 
+## Open Source Contributions
+
+- [equinor/semeio#895](https://github.com/equinor/semeio/pull/895) — 
+  Fixed pytest-console-scripts API deprecation across test suite (May 2026)
+
+---
+
 ## Stack
 ```
 AI / ML      Python · LangChain · RAG · ChromaDB · Scikit-learn · Pandas · sentence-transformers
