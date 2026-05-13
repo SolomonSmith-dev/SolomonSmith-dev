@@ -24,8 +24,11 @@ I care about the practical side of ML engineering: pipelines that hold up, agent
 
 | Project | Description | Stack | Status |
 |---|---|---|---|
-| [**claude-agents**](https://github.com/SolomonSmith-dev/claude-agents) | Multi-agent orchestration on self-hosted hardware. BullMQ job queue, Redis state, command allowlist security layer. | Node.js · Redis · SQLite · BullMQ | 🟢 Production |
-| [**DocMind**](https://github.com/SolomonSmith-dev/DocMind) | RAG pipeline for document Q&A with prompt injection defense. | Python · FastAPI · ChromaDB · sentence-transformers | 🔨 Active |
+| [**soc-triage-ai**](https://github.com/SolomonSmith-dev/soc-triage-ai) | RAG-grounded SOC alert triage. Claude + MITRE ATT&CK mapping, JSON schema validation, Streamlit UI, reliability harness. | Python · Streamlit · Claude · sentence-transformers · ChromaDB | Shipped · v1.0 |
+| [**claude-agents**](https://github.com/SolomonSmith-dev/claude-agents) | Multi-agent orchestration on self-hosted hardware. BullMQ job queue, Redis state, command allowlist security layer. | Node.js · Redis · SQLite · BullMQ | Production |
+| [**DocMind**](https://github.com/SolomonSmith-dev/DocMind) | RAG pipeline for document Q&A with prompt injection defense. | Python · FastAPI · ChromaDB · sentence-transformers | Active |
+| [**arda**](https://github.com/SolomonSmith-dev/arda) | Python LLM agents with LangChain. Tool use, memory, multi-agent planning. FastAPI + MCP server + Redis-backed queue. | Python · FastAPI · LangChain · MCP · Redis | Active |
+| [**phishguard**](https://github.com/SolomonSmith-dev/phishguard) | Multi-modal phishing URL detector. GBDT + DistilBERT + EfficientNet fused via calibrated meta-learner. | Python · PyTorch · LightGBM · ONNX | v0.2 in development |
 
 ---
 
