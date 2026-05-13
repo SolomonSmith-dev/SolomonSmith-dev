@@ -32,23 +32,22 @@ I care about the practical side of ML engineering: pipelines that hold up, agent
 
 ---
 
-## Featured Work
+## Experience
 
-**RideSplits** · Full-Stack Developer · 2025  
-Production codebase, 20,000+ lines. Migrated 100% of auth flows from JWT to Firebase Auth (60% reduction in login bugs). Built secure document upload pipeline with ID verification for 50+ users. 32 commits across onboarding, profile management, and real-time user state.
+**Recursa AI** · Software Engineering Intern · Dec 2025 to Mar 2026  
+Built a distributed scraping pipeline ingesting court rules across 50+ U.S. jurisdictions with retry, backoff, and deduplication, handling 200K+ documents at 99%+ extraction accuracy. Shipped a RAG system over the normalized legal corpus using vector embeddings and hybrid keyword search, cutting query latency from 4s to under 600ms. Designed an evaluation harness that caught a 12% hallucination regression after a model swap and blocked the release.
 
-**Adversarial AI Agents** · CSUSB · 2025  
-Minimax + Alpha-Beta pruning for 5×5 Tic-Tac-Toe at depth 4, sub-500ms across 1,000+ game states. CSP solver for 20+ constraint vehicle scheduling with 100% conflict-free assignment rate.
+**RideSplits** · Full-Stack Developer · Jun 2025 to Sep 2025  
+Migrated 100% of authentication flows from JWT to Firebase Auth across multiple user roles, reducing login-related bugs by 60%. Designed a secure multi-screen document upload pipeline with validation and size limits, enabling ID verification for 50+ users. Authored security documentation defining Firestore rules and Storage access controls.
 
-**OS Concurrency Systems** · CSUSB · 2025  
-Multi-threaded C with Pthreads and mutex locks across 300M shared-memory operations. Linear, binary, and star process topologies with pipe-based IPC.
+**Cañada College** · IT Assistant · Jun 2023 to Jan 2024  
+Improved system reliability by 20% troubleshooting hardware, software, and networking for 100+ institutional users across Linux, Windows, and macOS lab systems. Resolved 90% of technical support requests within 24 hours.
 
 ---
 
 ## Open Source Contributions
 
-- [equinor/semeio#895](https://github.com/equinor/semeio/pull/895) — 
-  Fixed pytest-console-scripts API deprecation across test suite (May 2026)
+- [equinor/semeio#895](https://github.com/equinor/semeio/pull/895): Fixed pytest-console-scripts API deprecation across the test suite (May 2026)
 
 ---
 
