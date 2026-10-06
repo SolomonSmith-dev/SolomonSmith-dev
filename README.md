@@ -18,5 +18,6 @@ Software engineer. I build LLM-backed features for products where a confident wr
 ## Open source
 
 - [equinor/semeio#895](https://github.com/equinor/semeio/pull/895): fixed a pytest-console-scripts deprecation across the test suite.
+- [civicband/clerk-fetchers#85](https://github.com/civicband/clerk-fetchers/pull/85): added a generic Swagit meeting-video fetcher, with Upland, CA as the first city.
 
 [solomonsmith.dev](https://solomonsmith.dev) · [LinkedIn](https://www.linkedin.com/in/solomonsmithdev/) · solomonsmithdev@gmail.com
