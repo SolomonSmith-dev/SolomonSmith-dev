@@ -1,0 +1,29 @@
+name: Weekly activity
+
+# Copies last week's activity from solomonsmith.dev/activity.json into the
+# README block. Runs an hour after the portfolio workflow builds that file.
+on:
+  schedule:
+    - cron: "0 16 * * 1" # Monday 16:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python3 .github/scripts/activity_block.py
+      - name: Commit README
+        run: |
+          git add README.md
+          if git diff --cached --quiet; then echo "No change"; exit 0; fi
+          git -c user.name="github-actions[bot]" \
+              -c user.email="41898282+github-actions[bot]@users.noreply.github.com" \
+              commit -m "Weekly activity update"
+          git push origin "HEAD:$GITHUB_REF_NAME"
