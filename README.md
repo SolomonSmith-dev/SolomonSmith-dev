@@ -6,6 +6,17 @@ Software engineer. I build LLM-backed features for products where a confident wr
 
 **Founding Engineer, Recursa AI / [CourtRules](https://courtrules.app)** (Jul 2026 to present). Second engineer on a legal-data platform covering filing rules for 1,653 judges. Shipped the judge assistant: ask a filing question, get an answer quoting the judge's own filed order, deep-linked to the page. Every claim is verified verbatim against the source before it renders; if nothing survives, it refuses. Also: iCal/CSV court-calendar exports (RFC 5545/4180, CWE-1236 guard, 35 tests), query analytics ranking data gaps, the repo's first README.
 
+## Last week
+
+<!-- activity:start -->
+**Oct 12 to Oct 18, 2026:** 25 commits, 3 merged PRs, 0 releases across 3 repos.
+
+- [neetcode-submissions](https://github.com/SolomonSmith-dev/neetcode-submissions): 1 commit
+- Private work: 2 repos, 24 commits, 3 merged PRs
+
+Updated every Monday from the GitHub API. Full log: [solomonsmith.dev/log](https://solomonsmith.dev/log/)
+<!-- activity:end -->
+
 ## Projects
 
 | Project | What it proves | Stack |
