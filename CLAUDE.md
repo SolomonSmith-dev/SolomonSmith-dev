@@ -1,0 +1,27 @@
+# CLAUDE.md: SolomonSmith-dev
+
+GitHub profile README and portfolio assets for SolomonSmith-dev.
+
+## Folder map
+
+- `assets/`
+- `pull_request_reviews/`
+- `graphify-out/`
+
+## Routing
+
+| You want to... | Go to |
+|----------------|-------|
+| Edit profile README | `README.md` |
+| Assets / badges | `assets/` |
+| PR review notes | `pull_request_reviews/` |
+
+## ICM / Graphify
+
+When `graphify-out/graph.json` exists, answer codebase questions with `graphify query "<q>"` (also `path` / `explain`) before grep or explore agents. Rebuild with `graphify update` after large structural changes. Dual Develop: Hermes-first product build; Cursor for git/PR/evals/parallel. No secrets in commits or docs. Ops spine: `~/Projects/personal-tech-ops`.
+
+## Hard rules
+
+- No secrets, tokens, or `.env` values in commits, docs, or chat logs.
+- Prefer project `AGENTS.md` when present; do not fork policy into duplicate files.
+- Done means verified commands, not summaries of imagined output.
