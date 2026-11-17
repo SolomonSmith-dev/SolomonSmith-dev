@@ -1,6 +1,6 @@
 # Solomon Smith
 
-AI/Backend Engineer. I build LLM-backed features for products where a confident wrong answer costs more than no answer, and I write the tests that prove they refuse correctly. CS at CSUSB, graduating December 2026. Ten years in professional kitchens before this, dishwasher to head chef. Open to AI/ML and backend engineering roles starting January 2027.
+Forward Deployed / AI Engineer. I build LLM-backed features for products where a confident wrong answer costs more than no answer, and I write the tests that prove they refuse correctly. CS at CSUSB, graduating December 2026. Ten years in professional kitchens before this, dishwasher to head chef. Open to Forward Deployed Engineer roles first, then ML/AI and AI/LLM engineering, starting January 2027.
 
 ## Now
 
